@@ -1,0 +1,25 @@
+body{
+            background-color: #1c1c34;
+        }
+        hr{
+            border-color: #fdefce;
+            border-style: none;
+            border-top-style: dotted;
+            border-width: 5px;
+            width: 5%;
+        }
+        img{
+            height: 150px;
+        }
+        h1{
+            color: #fdefce;
+        }
+        h3{
+            color: #fdefce;
+        }
+        label{
+            color: #fdefce;
+        }
+        p{
+            color: cadetblue;
+        }
