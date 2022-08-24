@@ -1,34 +1,42 @@
 body{
-            background-color: #0f72af;
-        }
-        hr{
-            border-color: #fdefce;
-            border-style: none;
-        }
-        img{
-            height: 150px;
-        }
-        h1{
-            color: #fdefce;
-        }
-        h3{
-            color: #fdefce;
-        }
-        label{
-            color: #fdefce;
-        }
-        p{
-            color: cadetblue;
-        }
-        .main{
-            background-color: #fdefce;
-            border-style:none;
-            height: 1px;
-            width: 100%;
-        }
-        #page-wrap {
-            width: 800px;
-            margin: 0 auto;
-            background-color: #1c1c34;
-            padding: 20px;
-        }
+    background-color: #0f72af;
+}
+
+hr{
+    border-color: #fdefce;
+    border-style: none;
+}
+
+img{
+    height: 150px;
+}
+
+h1{
+    color: #fdefce;
+}
+
+h3{
+    color: #fdefce;
+}
+
+label{
+    color: #fdefce;
+}
+
+p{
+    color: cadetblue;
+}
+
+.main{
+    background-color: #fdefce;
+    border-style:none;
+    height: 1px;
+    width: 100%;
+}
+
+#page-wrap {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #1c1c34;
+    padding: 20px;
+}
