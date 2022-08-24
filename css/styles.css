@@ -23,3 +23,9 @@ body{
         p{
             color: cadetblue;
         }
+        .main{
+            background-color: #fdefce;
+            border-style:none ;
+            height: 1px;
+            width: 100%;
+        }
