@@ -1,12 +1,9 @@
 body{
-            background-color: #1c1c34;
+            background-color: #0f72af;
         }
         hr{
             border-color: #fdefce;
             border-style: none;
-            border-top-style: dotted;
-            border-width: 5px;
-            width: 5%;
         }
         img{
             height: 150px;
@@ -25,7 +22,13 @@ body{
         }
         .main{
             background-color: #fdefce;
-            border-style:none ;
+            border-style:none;
             height: 1px;
             width: 100%;
+        }
+        #page-wrap {
+            width: 800px;
+            margin: 0 auto;
+            background-color: #1c1c34;
+            padding: 20px;
         }
